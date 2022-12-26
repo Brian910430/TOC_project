@@ -15,4 +15,4 @@
 
 ## 基本資料
 
-[現在就加入聖誕老人的行列](https://page.line.me/?accountId=704ejyvb)
+現在就加入[聖誕老人](https://page.line.me/?accountId=704ejyvb)的行列
