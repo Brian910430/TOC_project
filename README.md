@@ -16,7 +16,6 @@
 ## 基本資料
 
 現在就加入[聖誕老人](https://page.line.me/?accountId=704ejyvb)的行列
-
 ![image](https://user-images.githubusercontent.com/83541040/209562446-978e05f1-1b64-4f43-a4e7-77058b946a03.png)
 
 ## 使用說明
@@ -43,3 +42,6 @@
 
 2. 網路爬蟲(BeautifulSoup4)
 ![image](https://user-images.githubusercontent.com/83541040/209564133-6906d5d6-f0b8-4dc1-a5af-e53f5cb59914.png)
+
+## FSM
+![20221226_234050](https://user-images.githubusercontent.com/83541040/209564645-61028d61-366d-49c9-9681-3757b9e21cd6.jpg)
