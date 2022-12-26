@@ -39,9 +39,7 @@
 
 ## 使用到的黑科技
 1. Render
-
 ![image](https://user-images.githubusercontent.com/83541040/209563845-a86fb6e1-baa1-46d5-a535-3ce1c8db4a26.png)
 
 2. 網路爬蟲(BeautifulSoup4)
-
 ![image](https://user-images.githubusercontent.com/83541040/209564133-6906d5d6-f0b8-4dc1-a5af-e53f5cb59914.png)
