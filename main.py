@@ -146,7 +146,7 @@ def handle_message(event):
         except:
             line_bot_api.reply_message(
                 event.reply_token, TextSendMessage('找不到這個標籤的漫畫'))
-            state = 'origin'
+        state = 'origin'
     elif state == 'findLang':
         try:
             url, img, tls = crawler.craw_language(message)
@@ -191,7 +191,7 @@ def handle_message(event):
         except:
             line_bot_api.reply_message(
                 event.reply_token, TextSendMessage('找不到這個語言的漫畫'))
-            state = 'origin'
+        state = 'origin'
     elif state == 'findKey':
         try:
             url, img, tls = crawler.craw_search(message)
@@ -236,7 +236,7 @@ def handle_message(event):
         except:
             line_bot_api.reply_message(
                 event.reply_token, TextSendMessage('找不到這種漫畫'))
-            state = 'origin'
+        state = 'origin'
 
 
 # 主程式
